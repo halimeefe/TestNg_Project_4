@@ -1,0 +1,21 @@
+
+
+
+
+
+
+<suite name="All Test Suite">
+
+    <test name="TestNgProject">
+        <parameter name="browserTipi" value="chrome"></parameter>
+        <parameter name="search" value="Adobe Photoshop CS4"></parameter>
+        <parameter name="email" value="lime@gmail.com"></parameter>
+        <parameter name="email2" value="lime@gmail.com"></parameter>
+
+
+        <classes>
+          <class name="Project_4.TestClass"></class>
+        </classes>
+
+    </test>
+</suite>
